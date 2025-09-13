@@ -1,0 +1,3 @@
+- Atualizei para a versão mais nova do ReactNative e de outros packages e troquei diversas dependências que estavam depreciadas.
+- Estilizei os botões de movimentação entre entradas da API (setas para os lados) de Button e adicionei uma função para desabilitá-los ao chegar ao começo ou final da lista de carros. 
+- Melhorei a disposição dos elementos na tela.
