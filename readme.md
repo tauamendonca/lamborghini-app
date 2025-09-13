@@ -62,17 +62,9 @@ O projeto e o curso ao qual ele pertence focam em aprofundar conhecimentos sobre
 - Componentização
 
 
-## 🏆 Desafios propostos realizados
+## 🏆 Melhorias realizadas
 
 Foram realizadas as seguintes modificações no código: 
-
-- Layout completamente novo e tema diferente (troquei a logo do projeto original pela badge que estava no readme do projeto, que era bem mais interessante estéticamente)
-- Adição de ícones com o package react-native-vector-icons/fontawesome6
-- Adição de um botão Settings que irá ser implementado em breve devido a restrição de tempo para terminar os outros projetos do bootcamp
-- Troquei os botões de pressable para touchable opacity (por feedback visual)
-- Adicionei um feedback visual para o botão copiar (e no momento para o botão setting enquanto este não está implementado)
-
-Ainda será implementado:
-- Configurações para personalizar a geração de senha
-- Gerar senha através da tabela ASCII
-- Salvar senha gerada
+- Atualizei para a versão mais nova do ReactNative e de outros packages e troquei diversas dependências que estavam depreciadas.
+- Estilizei os botões de movimentação entre entradas da API (setas para os lados) de Button e adicionei uma função para desabilitá-los ao chegar ao começo ou final da lista de carros. 
+- Melhorei a disposição dos elementos na tela.
