@@ -2,11 +2,11 @@
 <div align="center">
   <p align="center">
     <img 
-      alt="Bat Pass Generator Logo" 
-      src="https://raw.githubusercontent.com/tauamendonca/password-generator/refs/heads/main/github/badge.png" 
+      alt="Lamborghini Logo" 
+      src="https://raw.githubusercontent.com/tauamendonca/lamborghini-app/refs/heads/main/assets/logo.png" 
       width="200px" 
     />
-    <h1>React Native - App gerador de senhas</h1>
+    <h1>React Native - Lamborghini - Consumo de API</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -38,7 +38,7 @@ Nesse projeto foi criado um app que consome uma [API](https://digitalinnovationo
 ## Preview
 <center><img 
       alt="App screen with a Lamborghini car, a Lamborghini logo, the car price, a button written 'buy now' and two buttons that navigate forward or backwards through cars" 
-      src="https://raw.githubusercontent.com/tauamendonca/password-generator/refs/heads/main/github/preview.jpg" 
+      src="https://raw.githubusercontent.com/tauamendonca/lamborghini-app/refs/heads/main/github/preview.jpg" 
       width="200px"
 /></center>
 
